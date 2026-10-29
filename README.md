@@ -1,6 +1,6 @@
 # GRiDSound
 
-Background sound for **GRiD Compass** programs: two sampled voices mixed
+Background sound for **GRiD Compass** CCOS / GRiD-OS programs: two sampled voices mixed
 together, DTMF tones, volume, stop, "is it still playing", sounds loaded
 from disk or linked into the program, and a clean shutdown. The program
 keeps running while the sound plays.
